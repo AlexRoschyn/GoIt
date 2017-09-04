@@ -1,2 +1,0 @@
-# GoIt
-MyStady&amp;Projects
