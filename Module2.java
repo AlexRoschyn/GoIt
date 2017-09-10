@@ -16,6 +16,18 @@ public class Module2 {
         System.out.println("Город:"+city);
         System.out.println("Возраст:"+age);
         System.out.println("Хобби:"+hobby);
+        
+        //Вариант 2 (текстовый):
+        System.out.println("Человек по имени:");
+        String name1 = in.nextLine();
+        System.out.println("Живет в городе:");
+        String city1 = in.nextLine();
+        System.out.println("Этому человеку:");
+        String age1 = in.nextLine();
+        System.out.println("Он любит заниматься:");
+        String hobby1 = in.nextLine();
+        System.out.println("Человек по имени:"+name1+" Живет в городе:"+city1);
+        System.out.println("Этому человеку:"+age1+"лет"+" Он любит заниматься:"+hobby1);
     }
 }
 
